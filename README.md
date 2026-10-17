@@ -36,10 +36,10 @@ An end-to-end Identity Governance (IGA) lab built on **midPoint** (open source),
 - [x] Install Docker Desktop + WSL2
 - [x] Run midPoint with docker compose and log in
 - [x] Create GitHub account
-- [ ] Change the administrator password
-- [ ] Install VS Code
-- [ ] Install Git
-- [ ] Create this repo and push the lab files
+- [x] Change the administrator password
+- [x] Install VS Code
+- [x] Install Git
+- [x] Create this repo and push the lab files
 
 ### Phase 1 — HR source (CSV)
 - [ ] Build the 100-employee CSV (empId, names, department, title, managerId, status, startDate)
