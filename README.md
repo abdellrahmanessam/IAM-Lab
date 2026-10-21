@@ -42,10 +42,10 @@ An end-to-end Identity Governance (IGA) lab built on **midPoint** (open source),
 - [x] Create this repo and push the lab files
 
 ### Phase 1 — HR source (CSV)
-- [ ] Build the 100-employee CSV (empId, names, department, title, managerId, status, startDate)
-- [ ] Add edge cases: duplicate names, terminated staff, managers
-- [ ] Get the CSV into the midPoint container
-- [ ] Create the CSV resource as **authoritative** *(IIQ: HR application)*
+- [x] Build the 100-employee CSV (empId, names, department, title, managerId, status, startDate)
+- [x] Add edge cases: duplicate names, terminated staff, managers
+- [x] Get the CSV into the midPoint container
+- [x] Create the CSV resource as **authoritative** *(IIQ: HR application)*
 - [ ] Map HR fields to user attributes *(IIQ: Identity Mappings)*
 - [ ] Generate usernames + handle duplicates *(IIQ: Creation Rule)*
 - [ ] Import and confirm 100 users created *(IIQ: Aggregation)*
